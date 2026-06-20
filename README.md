@@ -24,7 +24,7 @@ Mi misión será explorar, limpiar y analizar estas bases de datos para construi
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Alezgo-ui/adb_mobility_economy_project/blob/main/adb_mobility_economy_project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alezgo-ui/Project_ConnectaTel/blob/main/Project_ConnectaTel.ipynb)
 
 O:
 
